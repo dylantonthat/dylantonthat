@@ -2,6 +2,6 @@
 
 <h4 align="center">
   <p align="center">- 🩺 Currently a Technology Co-op @ Johnson & Johnson</p>
-  <p align="center">- 📋 Incoming Software Engineer Intern @ Prudential Financial</p>
+  <p align="center">- 🏢 Incoming Software Engineer Intern @ Prudential Financial</p>
   <p align="center">- 🌐 You can learn more about me here: <a href="https://www.dylantonthat.com">www.dylantonthat.com</a></p>
 </h5>
