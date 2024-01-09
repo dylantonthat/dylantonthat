@@ -4,5 +4,4 @@
   <p align="center">- 🩺 Currently a Technology Co-op @ Johnson & Johnson</p>
   <p align="center">- 📋 Incoming Software Engineer Intern @ Prudential Financial</p>
   <p align="center">- 🌐 You can learn more about me at: <a href="www.dylantonthat.com">www.dylantonthat.com</a></p>
-  <p align="center">- 🎹 Fun fact: I earned a Piano Performance Diploma from the London College of Music!</p>
 </h5>
