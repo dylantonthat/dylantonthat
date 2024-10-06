@@ -1,9 +1,11 @@
-<h3 align="center">3rd Year Computer Science Student @ NJIT Honors College</h3>
+### Hello there 👋
 
-<h4 align="center">
+#### 3rd Year Computer Science Student @ NJIT Honors College
 
-  <p align="center">- 🏢 Prev. Software Engineer Intern @ Prudential Financial</p>
-  <p align="center">- 📈 Prev. Software Engineer @ Stealth Startup</p>
-  <p align="center">- 🩺 Prev. Software Engineer Co-op @ Johnson & Johnson</p>
-  <p align="center">- 💻 You can learn more about me here: <a href="https://www.dylantonthat.com">www.dylantonthat.com</a></p>
-</h4>
+🏢 Prev. Software Engineer Intern @ [Prudential Financial](https://www.prudential.com/);<br>
+📈 Prev. Software Engineer @ Stealth Startup;<br>
+🩺 Prev. Software Engineer Co-op @ [Johnson & Johnson](https://www.jnj.com/medtech);<br>
+
+- 💻 Learn more about me: <a href="https://www.dylantonthat.com">www.dylantonthat.com</a>
+- ⚙️ Proficient With: `.py`, `.java`, `.sql`, `.js`, `.ts`, `.html`, `.css`, `
+
