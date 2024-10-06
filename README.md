@@ -7,5 +7,5 @@
 🩺 Prev. Software Engineer Co-op @ [Johnson & Johnson](https://www.jnj.com/medtech);<br>
 
 - 💻 Learn more about me: <a href="https://www.dylantonthat.com">www.dylantonthat.com</a>
-- ⚙️ Proficient With: `.py`, `.java`, `.sql`, `.js`, `.ts`, `.html`, `.css`, `
+- ⚙️ Proficient With: `.py`, `.java`, `.sql`, `.js`, `.ts`, `.html`, `.css` `
 
