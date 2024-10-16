@@ -1,4 +1,4 @@
-### Hello there 👋
+### 👋
 
 #### I'm Dylan, a 3rd Year Computer Science Student @ NJIT Honors College.
 
