@@ -1,6 +1,6 @@
 ### 👋
 
-#### I'm Dylan, a 3rd Year Computer Science Student @ NJIT Honors College.
+#### I'm Dylan, a Computer Science Student @ NJIT Honors College.
 
 🏢 Prev. Software Engineer Intern @ [Prudential Financial](https://www.prudential.com/);<br>
 📈 Prev. Software Engineer @ [Stealth Startup](https://en.wikipedia.org/wiki/Stealth_startup);<br>
